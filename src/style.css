@@ -1,0 +1,31 @@
+.btn-prymary {
+    background-color: #db56eb;
+    border-color: #db56eb;
+}
+
+.btn-prymary:hover {
+    background-color: #6054A1;
+    border-color: #6054A1;
+}
+
+.drop-shadow {
+    filter: drop-shadow(5px 0px 4px orange)
+}
+
+.no-select {
+    user-select: none;
+}
+
+.bg-primary {
+    background-color: #ffc107c8;
+}
+
+.dropdown-item:active, .dropdown-item:hover {
+    background-color: #ffc107c8 !important;
+}
+
+tbody > tr:hover > * {
+    background-color: #ffff !important;
+    color: black !important;
+}
+
